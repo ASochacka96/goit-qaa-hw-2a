@@ -1,2 +1,2 @@
-# goit-qaa-hw-2.1
-Homework number 2.1
+# goit-qaa-hw-2.a
+Homework number 2.a
